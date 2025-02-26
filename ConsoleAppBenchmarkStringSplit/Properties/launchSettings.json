@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleAppBenchmarkStringSplit": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
